@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "GIFter",
+            "versionName": "Summer '18 (new color)",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "GIFter": "0Ho4H000000XZBKSA4",
+        "GIFter@1.0.0-1": "04t4H000000XI4nQAG",
+        "GIFter@1.1.0-1": "04t4H000000XI4sQAG"
+    }
+}
